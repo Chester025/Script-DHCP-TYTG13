@@ -7,7 +7,7 @@
 #
 # declare STRING variable
 STRING="Scripts examples"
-f_dchpd_conf="https://raw.githubusercontent.com/AlexGomila/dhcp/refs/heads/main/kea-dhcp4.conf"
+f_dchpd_conf="https://raw.githubusercontent.com/Chester025/Script-DHCP-TYTG13/refs/heads/main/kea-dhcp4.conf"
 #print variable on a screen
 echo $STRING
 
